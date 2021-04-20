@@ -1,4 +1,4 @@
-# PythonTools
-python脚本
+＃PythonTools
+aipang1.py-----------------爱站爬取目标旁站url
 
-awvs 批量添加并联动xray
+awvsxray.py----------------awvs批量添加目标并联动xray
